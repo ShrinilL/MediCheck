@@ -1,2 +1,2 @@
 # MediCheck
-An Arduino based mini-project on tinkercad
+An Arduino based mini-project on Tinkercad
